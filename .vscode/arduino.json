@@ -1,0 +1,4 @@
+{
+    "sketch": "radar-ultrasonido.ino",
+    "board": "arduino:avr:uno"
+}
